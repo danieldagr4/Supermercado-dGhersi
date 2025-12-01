@@ -1,0 +1,10 @@
+--- REPORTE DE GESTION SOOS ---
+
+============================================
+
+1. Producto más caro: **Vuvuzela**.
+2. Producto con más ingresos: **Arroz**.
+3. Valor total de inventario: **$1,900,570.00**.
+4. Total de ingresos (10/2010): **$2,700.00**.
+
+============================================
